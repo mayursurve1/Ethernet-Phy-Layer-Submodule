@@ -1,2 +1,3 @@
-# Ethernet-Phy-Layer-Submodule
-Design and Verification of 64/66B ethernet phy layer submodule 
+# Ethernet-Phy-Layer-Submodule 
+### Design and Verification of ethernet phy layer submodule 
+### Designed 64/66B encoder, sync.fifo, scrambler, descrambler and decoder
