@@ -6,7 +6,7 @@
 #### Synchronous FIFO – provides buffering between processing stages.
 #### Scrambler – performs self-synchronous scrambling to improve signal characteristics and reduce repetitive patterns.
 #### Descrambler – reconstructs the original data from the scrambled stream.
-##### Decoder – decodes the 66-bit blocks back into the original 64-bit data.
+#### Decoder – decodes the 66-bit blocks back into the original 64-bit data.
 ---
 #### UVM-based Verification – developed driver, monitor, sequencer, scoreboard, agent and environment to verify the complete data path.
 #### Verified  Encoder stage  functionality also Descrambler functionality
