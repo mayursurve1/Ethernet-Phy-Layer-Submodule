@@ -2,7 +2,7 @@
 ### Design and Verification of ethernet phy layer submodule 
 ### Designed 64/66B encoder, sync.fifo, scrambler, descrambler and decoder
 ---
-##### 64b/66b Encoder – converts 64-bit data into 66-bit encoded blocks.
+#### 64b/66b Encoder – converts 64-bit data into 66-bit encoded blocks.
 #### Synchronous FIFO – provides buffering between processing stages.
 #### Scrambler – performs self-synchronous scrambling to improve signal characteristics and reduce repetitive patterns.
 #### Descrambler – reconstructs the original data from the scrambled stream.
